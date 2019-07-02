@@ -1,8 +1,5 @@
 # robofriends
-#To run this App:
 
-#Clone this app
+# It uses a fetch Api
 
-#Run npm install
-
-#Run npm start
+#A simple GUI that fetches the contacts of friends and displays them on the web browser. 
